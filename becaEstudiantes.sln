@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "becaEstudiantes", "becaEstudiantes.csproj", "{BDE78B46-2887-4177-942D-C607150AF57F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba_Beca", "..\Prueba_Beca\Prueba_Beca.csproj", "{5C6D95AC-F93E-46E2-8CD2-1BE044731760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE78B46-2887-4177-942D-C607150AF57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE78B46-2887-4177-942D-C607150AF57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE78B46-2887-4177-942D-C607150AF57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE78B46-2887-4177-942D-C607150AF57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6D95AC-F93E-46E2-8CD2-1BE044731760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6D95AC-F93E-46E2-8CD2-1BE044731760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6D95AC-F93E-46E2-8CD2-1BE044731760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6D95AC-F93E-46E2-8CD2-1BE044731760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE10F750-613E-4E56-A219-85CDB43A5017}
+	EndGlobalSection
+EndGlobal
